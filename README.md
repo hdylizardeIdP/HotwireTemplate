@@ -1,5 +1,8 @@
 # README
 
+This is a basic repo for a rails project using postgresql, sidekiq, and redis.  Documentation is a work-in progress
+so more to come
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
